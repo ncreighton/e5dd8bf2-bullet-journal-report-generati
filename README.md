@@ -1,2 +1,45 @@
-# e5dd8bf2-bullet-journal-report-generati
-Professional bullet journal n8n automation workflow — without the professional price tag.  Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Bullet Journal Report Generation And Delivery Automation — fully configure
+# Bullet Journal Report Generation and Delivery Automation N8N Workflow
+
+> Workflow for Bullet Journal
+
+Professional bullet journal n8n automation workflow — without the professional price tag.
+
+Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.
+
+## What's Included
+
+- Bullet Journal Report Generation And Delivery Automation — fully...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/cNieVd5iT6Ake006fycZL2q)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
